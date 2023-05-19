@@ -1,14 +1,19 @@
-### Hi there 👋
+### Hi there I'm Dmitrii 👋
 
-**DmitrySavelev/DmitrySavelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm studying web development at <a href="https://practicum.yandex.ru/ target="_blank">Yandex.Practicum</a>. For now, I'm looking for opportunities to improve my skills in JS and React.</h3>
 
-Here are some ideas to get you started:
+## My stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
++ MERN (MongoDB, Express.js, React.js, Node.js)
++ HTML/CSS
++ JavaScript
++ Git
++ Figma
++ Postman
++ Webpack
+
+## Contacts:
+
+email: dsavelev1703@uandex.ru
+
+telegram: [@dmitrii_savelev](https://t.me/dmitrii_savelev)
