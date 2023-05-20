@@ -2,7 +2,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В настоящий момент я оканчиваю курс Веб-разработчик в Яндекс Практикуме и ищу возможность трудоустроиться на начальную позицию фронтенд разработчика.
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В настоящий момент я оканчиваю курс Веб-разработчика в Яндекс Практикуме и ищу возможность трудоустроиться на начальную позицию фронтенд разработчика.
 
 ---
 
@@ -18,6 +18,8 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+---
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-dmitrii_savelev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmitrii_savelev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitriisavelev1703@gmail.com)
 
