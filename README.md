@@ -23,15 +23,3 @@
 
 ### :mailbox: Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-dmitrii_savelev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dmitrii_savelev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitriisavelev1703@gmail.com)
-
----
-
-### 🤝 Социальные сети:
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/savelevdmitrii" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
