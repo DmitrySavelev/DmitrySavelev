@@ -19,16 +19,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-## My stack:
-
-+ MERN (MongoDB, Express.js, React.js, Node.js)
-+ HTML/CSS
-+ JavaScript
-+ Git
-+ Figma
-+ Postman
-+ Webpack
-
 ## Contacts:
 
 email: dsavelev1703@uandex.ru
