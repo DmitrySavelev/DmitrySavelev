@@ -26,7 +26,8 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/Dmitrii%20Savelev/badges/large?theme=light)
+![codewars](https://www.codewars.com/users/Dmitrii%20Savelev/badges/large?)
 
 ### ⚙️ GitHub статистика:
 
